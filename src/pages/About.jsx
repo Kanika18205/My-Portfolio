@@ -1,0 +1,11 @@
+import About from '../components/About';
+
+export default function AboutPage() {
+  return (
+    <div>
+      <div style={{ paddingTop: '80px' }}>
+        <About />
+      </div>
+    </div>
+  );
+}
