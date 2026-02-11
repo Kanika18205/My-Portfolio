@@ -53,7 +53,7 @@ export default function Projects() {
       technologies: ['React.js', 'Vite', 'CSS3', 'react-icons', 'Web3Forms'],
       image: '💼',
       link: '/Home',
-      github: 'https://github.com/Kanika18205/portfolio',
+      github: 'https://github.com/Kanika18205/My-Portfolio.git',
       highlights: ['Smooth animations', 'Glassmorphism design', 'Contact form with email', 'Fully responsive', 'Modern aesthetics', 'Performance optimized'],
       difficulty: 'Advanced',
       year: '2026',
