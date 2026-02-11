@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { FiArrowUp } from 'react-icons/fi';
-import '/Users/apple/portfolio/src/styles/ScrollToTop.css';
+import '../styles/ScrollToTop.css';
 
 export default function ScrollToTop() {
   const [isVisible, setIsVisible] = useState(false);

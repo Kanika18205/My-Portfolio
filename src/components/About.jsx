@@ -1,4 +1,4 @@
-import '/Users/apple/portfolio/src/styles/About.css';
+import '../styles/About.css';
 
 export default function About() {
   return (

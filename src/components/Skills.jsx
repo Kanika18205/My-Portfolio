@@ -1,4 +1,4 @@
-import '/Users/apple/portfolio/src/styles/Skills.css';
+import '../styles/Skills.css';
 
 export default function Skills() {
   const skillCategories = [

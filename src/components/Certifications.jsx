@@ -1,5 +1,5 @@
 import { FiDownload, FiExternalLink } from 'react-icons/fi';
-import '/Users/apple/portfolio/src/styles/Certifications.css';
+import '../styles/Certifications.css';
 
 export default function Certifications() {
   const certifications = [

@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import '/Users/apple/portfolio/src/styles/QuickLinks.css';
+import '../styles/QuickLinks.css';
 
 export default function QuickLinks() {
   const links = [

@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { FiMenu, FiX } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
-import '/Users/apple/portfolio/src/styles/Navbar.css';
+import '../styles/Navbar.css';
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);

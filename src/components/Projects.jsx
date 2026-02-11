@@ -1,5 +1,5 @@
 import { FiExternalLink, FiGithub } from 'react-icons/fi';
-import '/Users/apple/portfolio/src/styles/Projects.css';
+import '../styles/Projects.css';
 
 export default function Projects() {
   const projects = [
@@ -52,7 +52,7 @@ export default function Projects() {
       description: 'A stunning, modern portfolio website showcasing my professional journey, skills, and projects. Features smooth animations, glassmorphism design, gradient effects, fully functional contact form with email integration, responsive layout, and professional styling with advanced CSS techniques.',
       technologies: ['React.js', 'Vite', 'CSS3', 'react-icons', 'Web3Forms'],
       image: '💼',
-      link: '/Home',
+      link: '../pages/Home.jsx',
       github: 'https://github.com/Kanika18205/My-Portfolio.git',
       highlights: ['Smooth animations', 'Glassmorphism design', 'Contact form with email', 'Fully responsive', 'Modern aesthetics', 'Performance optimized'],
       difficulty: 'Advanced',

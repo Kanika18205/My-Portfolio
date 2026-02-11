@@ -1,6 +1,6 @@
 import { FiArrowRight } from 'react-icons/fi';
 import { useNavigate } from 'react-router-dom';
-import '/Users/apple/portfolio/src/styles/Hero.css';
+import '../styles/Hero.css';
 import QuickLinks from '../components/QuickLinks';
 
 export default function Home() {
