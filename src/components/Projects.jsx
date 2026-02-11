@@ -52,7 +52,7 @@ export default function Projects() {
       description: 'A stunning, modern portfolio website showcasing my professional journey, skills, and projects. Features smooth animations, glassmorphism design, gradient effects, fully functional contact form with email integration, responsive layout, and professional styling with advanced CSS techniques.',
       technologies: ['React.js', 'Vite', 'CSS3', 'react-icons', 'Web3Forms'],
       image: '💼',
-      link: '../pages/Home.jsx',
+      link: 'https://kanika-jain-portfolio.vercel.app/',
       github: 'https://github.com/Kanika18205/My-Portfolio.git',
       highlights: ['Smooth animations', 'Glassmorphism design', 'Contact form with email', 'Fully responsive', 'Modern aesthetics', 'Performance optimized'],
       difficulty: 'Advanced',
